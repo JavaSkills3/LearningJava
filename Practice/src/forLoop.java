@@ -7,6 +7,10 @@ public class forLoop {
         int number =sc.nextInt();
 
         for(int i =1;i<=number;i++){
+            if(i==3)
+                continue;
+            if(i==8)
+                break;
             System.out.println(i);
         }
     }
