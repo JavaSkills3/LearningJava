@@ -25,7 +25,7 @@ public class SwitchPractice {
                  System.out.println("Thursday");
                  break;
              case(5):
-                 System.out.println("Friday");
+                 System.out.println("Friday ");
                  break;
              case(6):
                  System.out.println("from 403");
