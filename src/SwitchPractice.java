@@ -31,7 +31,7 @@ public class SwitchPractice {
                  System.out.println("from 403");
                  break;
              default:
-                 System.out.println("Not valid ");
+                 System.out.println("from 0605 ");
                  break;
          }
     }
