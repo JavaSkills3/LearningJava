@@ -31,7 +31,7 @@ public class SwitchPractice {
                  System.out.println("Saturday");
                  break;
              default:
-                 System.out.println("Not valid ");
+                 System.out.println("from 0605 ");
                  break;
          }
     }
