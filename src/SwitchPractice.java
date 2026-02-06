@@ -4,7 +4,7 @@ public class SwitchPractice {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
-         System.out.print("Give me the day number: ");
+         System.out.print("Give me day number: ");
 
          int day = sc.nextInt();
 
