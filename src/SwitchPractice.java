@@ -28,7 +28,7 @@ public class SwitchPractice {
                  System.out.println("Friday");
                  break;
              case(6):
-                 System.out.println("Saturday");
+                 System.out.println("from 403");
                  break;
              default:
                  System.out.println("Not valid ");
