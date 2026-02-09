@@ -4,7 +4,8 @@ public class SwitchPractice {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
-         System.out.print("Give me the day number: ");
+         System.out.print("Give me day number : ");
+        System.out.print("Added to check the rebase");
 
          int day = sc.nextInt();
 
