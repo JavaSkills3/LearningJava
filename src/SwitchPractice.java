@@ -5,6 +5,7 @@ public class SwitchPractice {
 
         Scanner sc = new Scanner(System.in);
          System.out.print("Give me the day number: ");
+        System.out.println("this is the second sout line from 403");
 
          int day = sc.nextInt();
 
