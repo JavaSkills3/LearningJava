@@ -4,6 +4,7 @@ public class SwitchPractice {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
+         System.out.print("Give me day number: ");
          System.out.print("Give me day number : ");
         System.out.print("Added to check the rebase");
 
@@ -11,7 +12,7 @@ public class SwitchPractice {
 
          switch(day){
              case(7):
-                 System.out.println("Sunday");
+                 System.out.println(" unday");
                  break;
              case(1):
                  System.out.println("Monday");
